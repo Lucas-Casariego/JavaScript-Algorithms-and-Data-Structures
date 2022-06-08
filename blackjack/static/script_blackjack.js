@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=Qqx_wzMmFeA
 
 let blackjackGame = {
     'you': {'scoreSpan': '#your-blackjack-result', 'div': '#your-box', 'score': 0},
